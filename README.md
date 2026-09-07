@@ -19,8 +19,6 @@ A plataforma permite aos usuários:
 ## 🛠️ Tecnologias e Conceitos Aplicados
 
 * **HTML5 Semântico:** Uso rigoroso de tags semânticas (`<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`) para garantir acessibilidade, boa estrutura de código e otimização para motores de busca (SEO).
-* **CSS3:** Estilização, padronização visual e layout responsivo.
-* **JavaScript:** Interatividade básica e validação de formulários.
 * **Git & GitHub:** Controle de versão e publicação do código-fonte.
 
 ---
